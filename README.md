@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm Jefferson, graduate in Electronics. Through self-study
 - ReactJS
 - Php 
 - Laravel
+- GraphQL
 
 <hr/>
 
