@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm Jefferson, graduate in Electronics. Through self-study
 <hr/>
 
 ### ✔️ I'm currently learning
-- JavaScript 
-- ReactJS
-- Php 
-- Laravel
-- GraphQL
+- <img height="18px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript 
+- <img height="18px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> NodeJS
+- <img height="18px" src="https://cdn.svgporn.com/logos/react.svg"> ReactJS
+- <img height="18px" src="https://cdn.svgporn.com/logos/laravel.svg"> Laravel
+- <img height="18px" src="https://cdn.svgporn.com/logos/graphql.svg"> GraphQL
 
 <hr/>
 
@@ -35,11 +35,31 @@ Although, I think I'll wait to learn React before I build the website.
 <hr/>
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/jefferson-brioso-899356199/">Jefferson Brioso</a>
-- Instagram: <a href = "https://www.instagram.com/jabbdesign/?hl=es">jabbdesign</a>
+
+
+- <img height="18px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"> LinkedIn: <a href = "https://www.linkedin.com/in/jefferson-brioso-899356199/">Jefferson Brioso</a>
+- <img height="18px" src="https://cdn.svgporn.com/logos/instagram-icon.svg"> Instagram: <a href = "https://www.instagram.com/jabbdesign/?hl=es">jabbdesign</a>
 - Website: coming soon
 
 <hr/>
+
+## Technology
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg">
+      </td>
+      <td width="50%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr/>
+
 
 ## Frontend
 
