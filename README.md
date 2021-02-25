@@ -43,7 +43,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 <hr/>
 
-## Technology
+### Technology
 
 <table>
   <tbody>
@@ -61,7 +61,7 @@ Although, I think I'll wait to learn React before I build the website.
 <hr/>
 
 
-## Frontend
+### Frontend
 
 <table>
   <tbody>
@@ -87,7 +87,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 <hr/>
 
-## Backend
+### Backend
 
 <table>
   <tbody>
@@ -104,7 +104,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 <hr/>
 
-## Frameworks
+### Frameworks
 
 <table>
   <tbody>
@@ -124,7 +124,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 <hr/>
 
-## Database
+### Database
 <table>
   <tbody>
     <tr valign="top">
@@ -140,3 +140,5 @@ Although, I think I'll wait to learn React before I build the website.
     </tr>
   </tbody>
 </table>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbcode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbcode&show_icons=true&theme=tokyonight) -->
