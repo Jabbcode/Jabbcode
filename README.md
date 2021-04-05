@@ -81,6 +81,9 @@ Although, I think I'll wait to learn React before I build the website.
       <td align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/node-sass.svg">
       </td>
+      <td align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg">
+      </td>
     </tr>
   </tbody>
 </table>
