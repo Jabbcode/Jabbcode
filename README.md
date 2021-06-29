@@ -39,6 +39,7 @@ Although, I think I'll wait to learn React before I build the website.
 
 - <img height="18px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"> LinkedIn: <a href = "https://www.linkedin.com/in/jefferson-brioso-899356199/">Jefferson Brioso</a>
 - <img height="18px" src="https://cdn.svgporn.com/logos/instagram-icon.svg"> Instagram: <a href = "https://www.instagram.com/jabbdesign/?hl=es">jabbdesign</a>
+- <img height="18px" src="https://cdn.svgporn.com/logos/twitter.svg?response-content-disposition=attachment%3Bfilename%3Dtwitter.svg"> Twitter: <a href="https://twitter.com/Jabbcode">jabbcode</a>
 - Website: coming soon
 
 <hr/>
