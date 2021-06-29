@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm Jefferson, graduate in Electronics. Through self-study
 ### ✔️ I'm currently learning
 - <img height="18px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript 
 - <img height="18px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> NodeJS
+- <img height="18px" src="https://cdn.svgporn.com/logos/angular-icon.svg?response-content-disposition=attachment%3Bfilename%3Dangular-icon.svg"> Angular
 - <img height="18px" src="https://cdn.svgporn.com/logos/react.svg"> ReactJS
 - <img height="18px" src="https://cdn.svgporn.com/logos/laravel.svg"> Laravel
 - <img height="18px" src="https://cdn.svgporn.com/logos/graphql.svg"> GraphQL
