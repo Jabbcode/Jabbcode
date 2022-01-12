@@ -20,13 +20,13 @@ Although, I think I'll wait to learn React before I build the website.
 
 <hr/>
 
-### 💡 Goals for 2021
+<!-- ### 💡 Goals for 2021
 - Complete #100DaysOfCode challenge
 - Build 30+ projects 
 - Become skilled in JavaScript
 - Undertake with my social networks and reach many people with my work. :man_technologist: :art:
 
-<hr/>
+<hr/> -->
 
 ### 🌴 Fun facts
 - I love coffee :coffee:
