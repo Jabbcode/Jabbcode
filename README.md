@@ -118,7 +118,7 @@ Although, I think I'll wait to learn React before I build the website.
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
