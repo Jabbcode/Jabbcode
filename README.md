@@ -134,7 +134,7 @@ Although, I think I'll wait to learn React before I build the website.
   <tbody>
     <tr valign="top">
       <td align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/apache.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td align="center">
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
